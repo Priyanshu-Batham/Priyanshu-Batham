@@ -21,9 +21,6 @@ Hey, I am a 3rd year graduate student persuing BCA from National Post Graduate C
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanshu-Batham&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Priyanshu-Batham&icon=7&color=0)](https://visitcount.itsvg.in)
 
