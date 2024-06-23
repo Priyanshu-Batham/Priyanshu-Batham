@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey, I am a 3rd year graduate student persuing BCA from National Post Graduate College. I deal with technologies related to WebDev
 
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN3Z3VzYTRqNGRicDdqNGh4bDR2ZnM5djk5OWJkdml6MTB0d210YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/AYedHFqc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_batham_1) 
